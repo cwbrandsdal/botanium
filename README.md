@@ -100,9 +100,4 @@ Before deploying this outside a trusted local network, review these items:
 
 ## Repository Notes
 
-Build output and local editor files are intentionally ignored:
-
-- `ESP32/.pio/`
-- `ESP32/.vscode/`
-
 The `WEB` folder is a standalone copy of the web UI assets. The firmware also embeds the main HTML page in `ESP32/src/main.cpp`.
