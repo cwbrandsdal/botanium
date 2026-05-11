@@ -1,0 +1,11 @@
+# PlatformIO
+**/.pio/
+**/.pioenvs/
+**/.piolibdeps/
+
+# Local editor and generated IntelliSense files
+**/.vscode/
+
+# OS files
+Thumbs.db
+.DS_Store
